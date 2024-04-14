@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Html , Css , JS , React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohamed-khairy-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhQQxKvmITXWW6gnpkq8srw%3D%3D**
+- 📫 How to reach me **https://www.linkedin.com/in/mohamed-khairy-/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
