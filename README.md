@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 💬 Ask me about **Html , Css , JS , React**
-
+- 🔭 I’m currently enhancing my skill in Professional and Personal Effectiveness
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-khairy-/**
 
 <h3 align="left">Connect with me:</h3>
